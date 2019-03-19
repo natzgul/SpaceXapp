@@ -1,0 +1,7 @@
+{
+  "name": "SpaceX",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
